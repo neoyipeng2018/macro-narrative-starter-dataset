@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="430" viewBox="0 0 980 430">
+<rect width="100%" height="100%" fill="#08111f"/>
+<text x="64" y="38" fill="#eef6ff" font-family="Arial" font-size="22">FOMC v1 narrative term family counts</text>
+<rect x="68" y="301" width="32" height="29" rx="5" fill="#87c7ff"/>
+<text transform="translate(72,360) rotate(45)" fill="#b8c7d9" font-family="Arial" font-size="11">financial_conditions</text>
+<text x="68" y="291" fill="#eef6ff" font-family="Arial" font-size="12">554</text>
+<rect x="178" y="210" width="32" height="120" rx="5" fill="#87c7ff"/>
+<text transform="translate(182,360) rotate(45)" fill="#b8c7d9" font-family="Arial" font-size="11">growth</text>
+<text x="178" y="200" fill="#eef6ff" font-family="Arial" font-size="12">2252</text>
+<rect x="288" y="70" width="32" height="260" rx="5" fill="#87c7ff"/>
+<text transform="translate(292,360) rotate(45)" fill="#b8c7d9" font-family="Arial" font-size="11">inflation</text>
+<text x="288" y="60" fill="#eef6ff" font-family="Arial" font-size="12">4842</text>
+<rect x="398" y="179" width="32" height="151" rx="5" fill="#87c7ff"/>
+<text transform="translate(402,360) rotate(45)" fill="#b8c7d9" font-family="Arial" font-size="11">labor</text>
+<text x="398" y="169" fill="#eef6ff" font-family="Arial" font-size="12">2820</text>
+<rect x="508" y="305" width="32" height="25" rx="5" fill="#87c7ff"/>
+<text transform="translate(512,360) rotate(45)" fill="#b8c7d9" font-family="Arial" font-size="11">policy_ease</text>
+<text x="508" y="295" fill="#eef6ff" font-family="Arial" font-size="12">479</text>
+<rect x="618" y="307" width="32" height="23" rx="5" fill="#87c7ff"/>
+<text transform="translate(622,360) rotate(45)" fill="#b8c7d9" font-family="Arial" font-size="11">policy_tight</text>
+<text x="618" y="297" fill="#eef6ff" font-family="Arial" font-size="12">441</text>
+<rect x="728" y="152" width="32" height="178" rx="5" fill="#87c7ff"/>
+<text transform="translate(732,360) rotate(45)" fill="#b8c7d9" font-family="Arial" font-size="11">uncertainty</text>
+<text x="728" y="142" fill="#eef6ff" font-family="Arial" font-size="12">3317</text>
+</svg>

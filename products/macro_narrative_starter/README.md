@@ -38,3 +38,20 @@ v0.1 serious scaffold with real sample artifacts:
 - `scripts/qa_sample.py`: QA checks for manifest membership, URLs, dates, token count, and license notes.
 
 Next: expand real row collection beyond FOMC, generate 2 more charts, and publish the free sample page/repo.
+
+
+## v1 real product bundle
+The paid v1 bundle is now built at `paid_bundle/macro_narrative_starter_v1.zip`.
+
+Contents:
+- 87 cleaned FOMC statement/minutes documents from 2021-01-27 through 2026-04-29.
+- 44 statements and 43 minutes.
+- Full cleaned text, excerpts, URLs, document dates, word/token counts, topic tags, narrative term counts, and provenance notes.
+- `narrative_term_scores_v1.tsv` with per-document term family counts and per-1k-word intensities.
+- `source_manifest_v1.tsv`.
+- `macro_narrative_v1_notebook.ipynb`.
+- `QA_REPORT_v1.md`.
+- SVG proof charts.
+
+Gumroad upload file:
+`/Users/nyp/Documents/my_life/1000_to_10000_nopermission/products/macro_narrative_starter/paid_bundle/macro_narrative_starter_v1.zip`

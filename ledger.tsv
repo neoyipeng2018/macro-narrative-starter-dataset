@@ -6,3 +6,5 @@ date	type	amount	product	surface	status	evidence_ref	notes
 2026-06-02	qa	0	macro_narrative_starter	local	pass	products/macro_narrative_starter/scripts/qa_sample.py	QA PASS on sample rows.
 2026-06-02	chart	0	macro_narrative_starter	local	built	products/macro_narrative_starter/charts/fomc_term_counts.svg	First proof chart generated.
 2026-06-02	checkout_live	0	macro_narrative_starter	gumroad	live	https://yipengster7.gumroad.com/l/macro-narrative-starter	Gumroad product URL wired into site.
+2026-06-02	paid_product_built	0	macro_narrative_starter	local	v1_ready	products/macro_narrative_starter/paid_bundle/macro_narrative_starter_v1.zip	Built real v1 paid bundle: 87 FOMC statements/minutes, scores, notebook, QA, charts.
+2026-06-02	site_update	0	macro_narrative_starter	github_pages	v1_copy_ready	docs/index.html	Live site copy updated from sample starter to real v1 product.

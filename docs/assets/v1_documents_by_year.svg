@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="430" viewBox="0 0 980 430">
+<rect width="100%" height="100%" fill="#08111f"/>
+<text x="64" y="38" fill="#eef6ff" font-family="Arial" font-size="22">FOMC v1 documents by year</text>
+<rect x="68" y="86" width="32" height="244" rx="5" fill="#7cf2b4"/>
+<text transform="translate(72,360) rotate(45)" fill="#b8c7d9" font-family="Arial" font-size="11">2021</text>
+<text x="68" y="76" fill="#eef6ff" font-family="Arial" font-size="12">16</text>
+<rect x="178" y="86" width="32" height="244" rx="5" fill="#7cf2b4"/>
+<text transform="translate(182,360) rotate(45)" fill="#b8c7d9" font-family="Arial" font-size="11">2022</text>
+<text x="178" y="76" fill="#eef6ff" font-family="Arial" font-size="12">16</text>
+<rect x="288" y="86" width="32" height="244" rx="5" fill="#7cf2b4"/>
+<text transform="translate(292,360) rotate(45)" fill="#b8c7d9" font-family="Arial" font-size="11">2023</text>
+<text x="288" y="76" fill="#eef6ff" font-family="Arial" font-size="12">16</text>
+<rect x="398" y="86" width="32" height="244" rx="5" fill="#7cf2b4"/>
+<text transform="translate(402,360) rotate(45)" fill="#b8c7d9" font-family="Arial" font-size="11">2024</text>
+<text x="398" y="76" fill="#eef6ff" font-family="Arial" font-size="12">16</text>
+<rect x="508" y="70" width="32" height="260" rx="5" fill="#7cf2b4"/>
+<text transform="translate(512,360) rotate(45)" fill="#b8c7d9" font-family="Arial" font-size="11">2025</text>
+<text x="508" y="60" fill="#eef6ff" font-family="Arial" font-size="12">17</text>
+<rect x="618" y="239" width="32" height="91" rx="5" fill="#7cf2b4"/>
+<text transform="translate(622,360) rotate(45)" fill="#b8c7d9" font-family="Arial" font-size="11">2026</text>
+<text x="618" y="229" fill="#eef6ff" font-family="Arial" font-size="12">6</text>
+</svg>
