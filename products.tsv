@@ -1,5 +1,5 @@
 product_id	version	price_usd	sku_type	files	free_sample_url	checkout_url	status	gross_sales	refunds	last_updated	notes
 macro_narrative_free_sample	0.1	0	free	README+sample_rows+manifest+charts	TBD	TBD	building	0	0	2026-06-02	Trust builder and traffic sink.
-macro_narrative_starter	0.1	39	starter	one source family+notebook+prompt recipes	TBD	TBD	building	0	0	2026-06-02	Impulse-priced paid SKU.
-macro_narrative_flagship	0.1	149	flagship	multi-source dataset+notebooks+charts+QA	TBD	TBD	building	0	0	2026-06-02	Primary revenue SKU.
-macro_narrative_team_license	0.1	699	commercial	flagship+internal sharing+updates+invoice	TBD	TBD	building	0	0	2026-06-02	Highest ROI self-serve SKU.
+macro_narrative_starter	0.1	39	starter	one source family+notebook+prompt recipes	TBD	https://yipengster7.gumroad.com/l/macro-narrative-starter	live_checkout	0	0	2026-06-02	Impulse-priced paid SKU.
+macro_narrative_flagship	0.1	149	flagship	multi-source dataset+notebooks+charts+QA	TBD	https://yipengster7.gumroad.com/l/macro-narrative-starter	live_checkout	0	0	2026-06-02	Primary revenue SKU.
+macro_narrative_team_license	0.1	699	commercial	flagship+internal sharing+updates+invoice	TBD	https://yipengster7.gumroad.com/l/macro-narrative-starter	live_checkout	0	0	2026-06-02	Highest ROI self-serve SKU.

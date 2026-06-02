@@ -5,3 +5,4 @@ date	type	amount	product	surface	status	evidence_ref	notes
 2026-06-02	product_sample	0	macro_narrative_starter	local	built	products/macro_narrative_starter/samples/fomc_sample_rows.tsv	Fetched 8 real FOMC statement sample rows.
 2026-06-02	qa	0	macro_narrative_starter	local	pass	products/macro_narrative_starter/scripts/qa_sample.py	QA PASS on sample rows.
 2026-06-02	chart	0	macro_narrative_starter	local	built	products/macro_narrative_starter/charts/fomc_term_counts.svg	First proof chart generated.
+2026-06-02	checkout_live	0	macro_narrative_starter	gumroad	live	https://yipengster7.gumroad.com/l/macro-narrative-starter	Gumroad product URL wired into site.
