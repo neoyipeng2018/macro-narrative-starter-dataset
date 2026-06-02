@@ -8,3 +8,5 @@ date	type	amount	product	surface	status	evidence_ref	notes
 2026-06-02	checkout_live	0	macro_narrative_starter	gumroad	live	https://yipengster7.gumroad.com/l/macro-narrative-starter	Gumroad product URL wired into site.
 2026-06-02	paid_product_built	0	macro_narrative_starter	local	v1_ready	products/macro_narrative_starter/paid_bundle/macro_narrative_starter_v1.zip	Built real v1 paid bundle: 87 FOMC statements/minutes, scores, notebook, QA, charts.
 2026-06-02	site_update	0	macro_narrative_starter	github_pages	v1_copy_ready	docs/index.html	Live site copy updated from sample starter to real v1 product.
+2026-06-02	paid_product_upgrade	0	macro_narrative_starter	local	v1_1_premium_ready	products/macro_narrative_starter/paid_bundle/macro_narrative_starter_v1_1_premium_research_kit.zip	Upgraded to $390-value positioning: engineered feature store, regime timeline, 12 signal recipes, prompt pack, playbook, memo template, premium notebook, QA script.
+2026-06-02	site_update	0	macro_narrative_starter	github_pages	v1_1_premium_copy_ready	docs/index.html	Landing page updated to $39 launch deal for Premium Signal Kit v1.1.
