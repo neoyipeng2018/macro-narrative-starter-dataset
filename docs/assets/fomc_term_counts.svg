@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="360" viewBox="0 0 860 360">
+<rect width="100%" height="100%" fill="#08111f"/>
+<text x="80" y="28" fill="#eef6ff" font-family="Arial" font-size="18">FOMC sample: narrative term counts</text>
+<rect x="80" y="114" width="16" height="186" fill="#7cf2b4"/>
+<rect x="98" y="207" width="16" height="93" fill="#87c7ff"/>
+<text transform="translate(84,330) rotate(45)" fill="#b8c7d9" font-family="Arial" font-size="10">2024-01-31</text>
+<rect x="128" y="114" width="16" height="186" fill="#7cf2b4"/>
+<rect x="146" y="207" width="16" height="93" fill="#87c7ff"/>
+<text transform="translate(132,330) rotate(45)" fill="#b8c7d9" font-family="Arial" font-size="10">2024-03-20</text>
+<rect x="176" y="90" width="16" height="210" fill="#7cf2b4"/>
+<rect x="194" y="207" width="16" height="93" fill="#87c7ff"/>
+<text transform="translate(180,330) rotate(45)" fill="#b8c7d9" font-family="Arial" font-size="10">2024-05-01</text>
+<rect x="224" y="90" width="16" height="210" fill="#7cf2b4"/>
+<rect x="242" y="207" width="16" height="93" fill="#87c7ff"/>
+<text transform="translate(228,330) rotate(45)" fill="#b8c7d9" font-family="Arial" font-size="10">2024-06-12</text>
+<rect x="272" y="114" width="16" height="186" fill="#7cf2b4"/>
+<rect x="290" y="207" width="16" height="93" fill="#87c7ff"/>
+<text transform="translate(276,330) rotate(45)" fill="#b8c7d9" font-family="Arial" font-size="10">2024-07-31</text>
+<rect x="320" y="114" width="16" height="186" fill="#7cf2b4"/>
+<rect x="338" y="184" width="16" height="116" fill="#87c7ff"/>
+<text transform="translate(324,330) rotate(45)" fill="#b8c7d9" font-family="Arial" font-size="10">2024-09-18</text>
+<rect x="368" y="160" width="16" height="140" fill="#7cf2b4"/>
+<rect x="386" y="160" width="16" height="140" fill="#87c7ff"/>
+<text transform="translate(372,330) rotate(45)" fill="#b8c7d9" font-family="Arial" font-size="10">2024-11-07</text>
+<rect x="416" y="160" width="16" height="140" fill="#7cf2b4"/>
+<rect x="434" y="160" width="16" height="140" fill="#87c7ff"/>
+<text transform="translate(420,330) rotate(45)" fill="#b8c7d9" font-family="Arial" font-size="10">2024-12-18</text>
+<text x="650" y="42" fill="#7cf2b4" font-family="Arial" font-size="12">inflation</text>
+<text x="650" y="62" fill="#87c7ff" font-family="Arial" font-size="12">labor/employment</text>
+</svg>

@@ -1,0 +1,12 @@
+field	meaning	example	required	quality_check
+record_id	Stable unique id from source/date/title hash	fomc_2024_01_31_statement	yes	unique_not_null
+source_id	Source key matching source_manifest.tsv	fomc_statements	yes	in_manifest
+date	Publication date in ISO format	2024-01-31	yes	valid_date
+jurisdiction	Country/region	US	yes	non_empty
+title	Document title	Federal Reserve issues FOMC statement	yes	non_empty
+url	Canonical source URL	https://www.federalreserve.gov/...	yes	http_url
+text	Cleaned document text	Recent indicators suggest...	yes	min_length_200
+token_count_est	Approximate token count	842	yes	positive_integer
+topic_tags	Rule-based tags	inflation;labor;growth	no	semicolon_list
+narrative_terms	Matched term families	inflation_up;growth_slowing	no	semicolon_list
+license_note	Short provenance/legal note	US federal government source; verify page notes	yes	non_empty

@@ -1,0 +1,7 @@
+date	type	amount	product	surface	status	evidence_ref	notes
+2026-06-02	reserve	900	bank	self	planned	user_to_confirm	Protected reserve; agent must not access or spend.
+2026-06-02	risk_budget	100	ops_card	self	planned	user_to_confirm	Maximum initial operating loss until revenue clears.
+2026-06-02	product_version	0	macro_narrative_starter	local	v0.1	products/macro_narrative_starter/README.md	Initial product scaffold.
+2026-06-02	product_sample	0	macro_narrative_starter	local	built	products/macro_narrative_starter/samples/fomc_sample_rows.tsv	Fetched 8 real FOMC statement sample rows.
+2026-06-02	qa	0	macro_narrative_starter	local	pass	products/macro_narrative_starter/scripts/qa_sample.py	QA PASS on sample rows.
+2026-06-02	chart	0	macro_narrative_starter	local	built	products/macro_narrative_starter/charts/fomc_term_counts.svg	First proof chart generated.

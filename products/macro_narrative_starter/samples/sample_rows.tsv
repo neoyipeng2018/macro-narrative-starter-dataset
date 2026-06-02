@@ -1,0 +1,3 @@
+record_id	source_id	date	jurisdiction	title	url	text_excerpt	token_count_est	topic_tags	narrative_terms	license_note
+example_fomc_001	fomc_statements	2024-01-31	US	Example FOMC statement row	https://www.federalreserve.gov/monetarypolicy.htm	Cleaned excerpt placeholder. Replace with verified source text during build.	120	inflation;labor	inflation_persistent	US federal government source; verify page-specific notes.
+example_bls_001	bls_releases	2024-02-02	US	Example employment release row	https://www.bls.gov/bls/newsrels.htm	Cleaned excerpt placeholder. Replace with verified source text during build.	110	labor;wages	labor_strength	US federal government source; verify page-specific notes.

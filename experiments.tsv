@@ -1,0 +1,4 @@
+date	experiment_id	hypothesis	surface	asset	metric	threshold	result	decision
+2026-06-02	E001	A reproducible public macro text sample will attract qualified downloads	GitHub/HF/Substack	free sample repo + chart post	qualified_visits	175 visits after 7 useful posts	pending	build_and_launch
+2026-06-02	E002	A $149 flagship with source manifest and notebook can convert without a call	checkout	flagship landing page	paid_conversion	>=0.5% after 500 qualified visits	pending	build_checkout
+2026-06-02	E003	A $699 team license can sell self-serve if license/use-case copy is clear	checkout	commercial license SKU	team_license_sales	1 sale before 20 flagship sales	pending	include_sku_at_launch
